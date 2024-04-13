@@ -1,6 +1,6 @@
 import img1 from "../images/layouts/team-10.jpg";
 import img2 from "../images/layouts/team-11.jpg";
-import img3 from "../images/layouts/team-03.png";
+import img3 from "../images/layouts/team-13.jpg";
 import img4 from "../images/layouts/team-04.png";
 import img5 from "../images/layouts/team-05.png";
 
@@ -9,7 +9,7 @@ const dataTeam = [
     id: 1,
     img: img1,
     name: "Shin yeongbin",
-    position: "CEO & AI Developer",
+    position: "CEO & AI Engineer",
     instagram: "https://www.instagram.com/sinobin_",
     github: "https://github.com/youngbin03",
   },
@@ -26,7 +26,7 @@ const dataTeam = [
     id: 3,
     img: img3,
     name: "Kim minseung",
-    position: "Server Developer",
+    position: "Backend Developer",
     instagram: "https://www.instagram.com/rkms027",
     github: "https://github.com/RogerKimJazzLover",
   },

@@ -65,7 +65,7 @@ function About(props) {
                                 <h3 className="heading">{dataBlock.heading}</h3>
                                     <p className="mb-17">{dataBlock.desc1}</p>
                                     <p className="mb-26">{dataBlock.desc2}</p>
-                                    <Button link='/about' title='More About Us' />
+                                    <Button link='/team' title='More About Us' />
                             </div>
                         </div>
                     </div>

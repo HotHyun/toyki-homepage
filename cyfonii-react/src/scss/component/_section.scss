@@ -238,6 +238,12 @@
     padding: 116px 0 116px 35px;
 }
 
+@media screen and (max-width: 1200px) {
+    .home-1 .about .block-text {
+        padding: 60px 0 60px 35px; /* 더 작은 패딩 값으로 변경합니다. */
+    }
+}
+
 .speciality {
     padding: 100px 0 75px;
     position: relative;

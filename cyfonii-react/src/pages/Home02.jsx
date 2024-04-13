@@ -32,8 +32,6 @@ function Home02(props) {
 
                 <Roadmap2 data={dataRoadMap} />
 
-                <Team2 data={dataTeam} />
-
                 <Testimonials2 data={dataTestimonials2} />
 
                 <Footer2 />

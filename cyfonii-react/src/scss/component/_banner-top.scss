@@ -93,10 +93,16 @@
             }
         }
     }
+    @media screen and (max-width: 1200px) {
+        .banner__left {
+            padding: 40px 0;
+        }
+    }
 
     .banner__right {
         padding: 83px 0;
         position: relative;
+        display: block;
         .image {
             width: 551px;
             height: 700px;
@@ -197,6 +203,11 @@
             }
         }
     }
+    @media screen and (max-width: 1200px) {
+        .banner__right {
+            display: none;
+        }
+    }
 }
 
 
@@ -239,6 +250,7 @@
             padding: 19px 55px;
         }
     }
+    
     .bannerSwiper  {
         margin-top: 100px;
     }

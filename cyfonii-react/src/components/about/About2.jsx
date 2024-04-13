@@ -35,7 +35,7 @@ function About2(props) {
                                     <img src={img} alt="Cyfonii" />
                                     <h5 className="mb-17">{dataBlock.desc1}</h5>
                                     <p className="mb-30">{dataBlock.desc2}</p>
-                                    <Button title='More About Us' link='/about' />
+                                    <Button title='More About Us' link='/team' />
                                 </div>
                                 
                             </div>
