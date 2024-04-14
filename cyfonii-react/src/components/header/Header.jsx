@@ -3,7 +3,8 @@ import React, { useState, useEffect } from "react";
 import { Link, NavLink } from "react-router-dom";
 import menus from "../../pages/menu";
 
-import logo from "../../assets/images/logo/logo.png";
+import logo1 from "../../assets/images/logo/logo.png";
+import logo from "../../assets/images/logo/toyki.svg";
 
 import "./styles.scss";
 
